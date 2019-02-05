@@ -1,2 +1,2 @@
-# intro_python_data_science
-Introductory Python For Data Science
+## Learning Python & Data Science
+Jupyter Notebooks with notes I took and exercises I did while learning Python and Data Science.
